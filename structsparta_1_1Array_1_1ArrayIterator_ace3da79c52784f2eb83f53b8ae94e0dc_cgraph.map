@@ -1,0 +1,4 @@
+<map id="sparta::Array::ArrayIterator::isOlder" name="sparta::Array::ArrayIterator::isOlder">
+<area shape="rect" id="node1" title="determine if the data at this iterator was written before the data at another index." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$classsparta_1_1Array.html#a04bb4a1d42dec14d026afe15c65eef35" title="Return the maximum number of elements this Array can hold." alt="" coords="224,13,372,39"/>
+</map>
